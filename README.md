@@ -1,2 +1,2 @@
 # matplotlib-basics
-basics with some methods and ttributes
+basics with some methods 
